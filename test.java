@@ -6,6 +6,6 @@ public static void main(String[] args) {
    int b=6;
    int multiply=a*b;
     System.out.println(multiply);
-
+System.out.println("done");
 }
 }
