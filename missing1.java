@@ -12,5 +12,6 @@ public class missing1 {
        
         int miss=total-SofN;
         System.out.println(miss);
+        System.out.println("got it");
     }
 }
